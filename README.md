@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osaretin Frank Osariemen</h1>
 <h3 align="center">A passionate MERN stack developer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osas2211" alt="osas2211" /></a> </p>
-
 - 🔭 I’m currently working on [Notelify](https://github.com/osas2211/notable)
 
 - 👨‍💻 All of my projects are available at [http://osaretinfrank.me/](http://osaretinfrank.me/)
@@ -25,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osas2211&show_icons=true&locale=en&layout=compact" alt="osas2211" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osas2211&" alt="osas2211" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osas2211" alt="osas2211" /></a> </p>
