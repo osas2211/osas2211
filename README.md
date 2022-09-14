@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osaretin Frank Osariemen</h1>
 <h3 align="center">A passionate MERN stack developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osas2211&label=Profile%20views&color=0e75b6&style=flat" alt="osas2211" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osas2211" alt="osas2211" /></a> </p>
 
 - 🔭 I’m currently working on [Notelify](https://github.com/osas2211/notable)
