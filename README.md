@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osaretin Frank Osariemen</h1>
 <h3 align="center">A passionate MERN stack developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Notelify](https://github.com/osas2211/notable)
+- 🔭 I’m currently working on [OurChat - Mobile App](https://github.com/osas2211//OurChat-MobileApp)
 
 - 👨‍💻 All of my projects are available at [http://osaretinfrank.me/](http://osaretinfrank.me/)
 
