@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osaretin Frank Osariemen</h1>
 <h3 align="center">A passionate MERN stack developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [a Product Management webApp](https://github.com/osas2211/Project-Management-WebApp)
+- 🔭 I’m currently working on a [Product Management webApp](https://github.com/osas2211/Project-Management-WebApp)
 
 - 👨‍💻 All of my projects are available at [http://osaretinfrank.me/](http://osaretinfrank.me/)
 
