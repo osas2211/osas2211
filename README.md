@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Cool Application😋
 
-- 👨‍💻 All of my projects are available at [http://osaretinfrank.me/](http://osaretinfrank.me/)
+- 👨‍💻 All of my projects are available at [http://osaretinfrank.me/](https://osaretinfrank.netlify.app)
 
 - 💬 Ask me about **ReactJS, NodeJS, Material UI, Docker**
 
