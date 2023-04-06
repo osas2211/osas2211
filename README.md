@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a Cool Application😋
 
-- 👨‍💻 All of my projects are available at [http://osaretinfrank.me/](https://osaretinfrank.netlify.app)
+- 👨‍💻 All of my projects are available at [http://osaretinfrank.me/portfolio](https://osaretinfrank.netlify.app/portfolio)
 
 - 💬 Ask me about **ReactJS, NodeJS, Material UI, Docker**
 
 - 📫 How to reach me **osaretin.frank10@gmail.com**
 
-- 📄 Know about my experiences [http://osaretinfrank.me/](http://osaretinfrank.me/)
+- 📄 Know about my experiences [http://osaretinfrank.me/](https://osaretinfrank.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
