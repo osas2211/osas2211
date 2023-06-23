@@ -35,9 +35,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osas2211&layout=compact" />
 &hide=html
 </a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osas2211&layout=compact" />
-&hide=html
-</a>
 
 [![Frank's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=osas2211&v=2)](https://github.com/anuraghazra/github-readme-stats)
