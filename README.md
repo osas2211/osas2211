@@ -26,3 +26,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osas2211&show_icons=true&locale=en" alt="osas2211" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osas2211&" alt="osas2211" /></p>
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osas2211&hide=stars&count_private=true&show_icons=true&theme=vue" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osas2211&layout=compact" />
+&hide=html
+</a> -->
+
+[![Frank's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=osas2211&v=2)](https://github.com/anuraghazra/github-readme-stats)
