@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://osaretinfrank.me/portfolio](https://osaretinfrank.netlify.app/portfolio)
 
-- 💬 Ask me about **ReactJS, NodeJS, Material UI, Docker**
+- 💬 Ask me about **ReactJS, NextJS, Redux, NodeJS, Ant Design, Material UI, Docker**
 
 - 📫 How to reach me **osaretin.frank10@gmail.com**
 
