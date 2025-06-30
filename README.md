@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osaretin Frank Osariemen</h1>
-<h3 align="center">A passionate MERN stack developer from Nigeria</h3>
+<h3 align="center">A passionate blockachain and MERN stack developer from Nigeria</h3>
 
 - 🔭 I’m currently working on a Cool Application😋
 
